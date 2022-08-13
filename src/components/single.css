@@ -1,0 +1,59 @@
+#main{
+    width: 50%;
+    height: 300px;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 10px;
+    border: 4px solid #12bf82; 
+    background-image: linear-gradient(to top, rgb(1, 219, 219), rgb(204, 249, 249));
+}
+#vehiclename{
+    width: 100%;
+    height: 40%;;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    color: teal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: underline;
+    font-style: italic;
+}
+#vehicleinfo{
+    width: 100%;
+    height: 60%;
+}
+
+#title{
+    width: 100%;
+    height: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 10px;
+}
+#info{
+    width: 100%;
+    height: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.titles{
+    background-color: rgb(217, 252, 241);
+    border-radius: 10px;
+    padding: 10px;
+    width: 20%;
+    text-align: center;
+    font-size: 18px;
+    color:rgb(3, 133, 91);
+}
+#singleupdate{
+    margin: auto;
+    margin-left: 41%;
+    margin-top: 50px;
+}

@@ -1,0 +1,36 @@
+.signupform{
+    width: 600px;
+    height: 500px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.signupinputs{
+    width: 80%;
+    height: 8%;
+    margin-top: 5%;
+
+}
+.signupform > p{
+    display: inline;
+}
+.submitbtn{
+    width: 20%;
+    height: 35px;
+    border-radius: 10px;
+    color: white;
+    background-color: #12bf82;
+    border: none;
+    margin-top: 50px;
+}
+.submitbtn:hover{
+    color: #12bf82;
+    background-color: white;
+    border: 2px solid #12bf82;
+}
+#top{
+    color:#12bf82;
+    margin-top: 30px;
+}
